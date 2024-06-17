@@ -13,6 +13,29 @@ This is a full stack integrated E-Commerce website with an Admin Dashboard using
 - Admin Dashboard:https://borcella-admin-alpha.vercel.app
 - Ecommerce Website:https://borcella-store-nine.vercel.app
 
+## Admin Dashboard
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/7f142de2-9336-4f7a-87d4-3a72c85ac2a4)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/24e50535-4543-4f8b-82b1-15b11b89fb93)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/9215a287-d043-4dd7-83b0-a80afb3a3b0b)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/5777cda0-a470-48b5-9a8e-ab70017d3549)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/a61211ed-f945-4ce0-a733-42b256d31e88)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/11eacf9c-01b1-4117-bb43-8c1acf28a535)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/29c4bc2a-dffc-4db0-9a51-8a1cc85c9adb)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/a66d1fab-7b91-48d0-8ce4-981e1ca269d9)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/c94d1eb4-bbcb-459e-ba09-e2a4672ce522)
+
+![image](https://github.com/chiahuiyun/borcella_admin-master/assets/80665061/18856fc4-0c32-41b6-849d-9362b7d77a0a)
+
+
+
 ## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
